@@ -1,5 +1,4 @@
-# TASK2-completed
-
+# task 2
 # CREATING VM(VIRTUAL MACHINE)
 
 step 1: Go to chrome and type microsoft azure portal and sign-in to the account.
@@ -9,13 +8,13 @@ step 4: Under tha basic field/tab, select the required details.
 step 5: Choose the subscription as concierge subscription.
 step 6: Then choose the "learn-919feb9a-bd8f-4943-ba57-4f55b17e1a03" from the resource group.
 step 7: Give any name for the virtual machine.
-step 8: Choose the region which is closer.
+step 8: Choose the region which is closer.vcpus, 8 GiB" .
 step 9: select "No infrastructure redundancy required" under availability options.
 step 10: select "standard" under security type.
 step 11: Choose "Ubuntu server 20.04 LTS -x64 Gen2" from the image list.
 step 12: select x64 under VM architecture.
 step 13: Do not select Run with azure spot discount box. Leave as it is.
-step 14: select the size as "Standard_D2s_v3 - 2 vcpus, 8 GiB" .
+step 14: select the size as "Standard_D2s_v3 - 2 # TASK2-completed
 step 15: Dont select Enable Hibernation box
 step 16: select SSH Public key from Authentication type.
 step 17: Give the azurename.
