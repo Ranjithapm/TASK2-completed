@@ -2,9 +2,13 @@
 # CREATING VM(VIRTUAL MACHINE)
 
 step 1: Go to chrome and type microsoft azure portal and sign-in to the account.
+
 step 2: click create resources ont he left hand side menu. so that it will display the popular azure services.
+
 step 3: click on the virtual machine from the list.
+
 step 4: Under tha basic field/tab, select the required details.
+
 step 5: Choose the subscription as concierge subscription.
 step 6: Then choose the "learn-919feb9a-bd8f-4943-ba57-4f55b17e1a03" from the resource group.
 step 7: Give any name for the virtual machine.
